@@ -1,0 +1,12 @@
+.imagecol{
+    margin-bottom: 1%;
+    padding: 5px;
+    column-gap: 40px;
+}
+.imagecol > img{ 
+    padding: 5px;
+}
+.header{
+    height: 50px;
+    background-color: black;
+}
